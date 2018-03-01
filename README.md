@@ -12,7 +12,7 @@ on the command line when calling mysqldump (etc).
 
 ### Installation
 
-Run the install.sh script to 
+Run the install.sh script
 
 ### Configuration
 
