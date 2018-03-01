@@ -1,0 +1,3 @@
+#!/bin/sh
+# Default cron.daily script for running the AutoMySQLBackup process
+/usr/local/bin/automysqlbackup
