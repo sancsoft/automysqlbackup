@@ -18,7 +18,7 @@ Run the install.sh script
 
 As root, create the credentials for logging into MySQL
 
-  mysql_config_editor set --login-path=automysqldump --user=root -p
+> mysql_config_editor set --login-path=automysqldump --user=root -p
 
 The automysqlbackup.conf file is configured to look for the login path "automysqldump" 
 credentials in the ".mylogin.conf" file in folder "/root"
@@ -31,7 +31,7 @@ Configure using cron or copy and chmod the "runmysqlbackup" command in the /etc/
 
 Default backup storage is in location:
 
-  /var/backups/db
+> /var/backups/db
 
 
 
